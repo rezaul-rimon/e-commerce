@@ -1,29 +1,15 @@
 
 <p align="center">
-  <img src="/frontend/img/logo.png" alt="UStora" width="400">
+  <img src="public/frontend/img/logo.png" alt="Logo">
 </p>
 
-<p align="center">
-  <a href="https://github.com/rezaul-rimon/e-commerce/actions">
-    <img src="https://github.com/rezaul-rimon/e-commerce/workflows/tests/badge.svg" alt="Build Status">
-  </a>
-  <a href="https://packagist.org/packages/Rezaul/E-Cmmerce Project">
-    <img src="https://img.shields.io/packagist/dt/Rezaul/E-Cmmerce Project" alt="Total Downloads">
-  </a>
-  <a href="https://packagist.org/packages/Rezaul/E-Cmmerce Project">
-    <img src="https://img.shields.io/packagist/v/Rezaul/E-Cmmerce Projecte" alt="Latest Stable Version">
-  </a>
-  <a href="https://packagist.org/packages/Rezaul/E-Cmmerce Project">
-    <img src="https://img.shields.io/packagist/l/Rezaul/E-Cmmerce Project" alt="License">
-  </a>
-</p>
 
-## About Your Project
+## About This Project
 
-This is a simple e-commerce website built with Laravel, featuring an admin panel for managing products. It utilizes the uStora theme to provide a visually appealing and user-friendly online shopping experience.
+This is a simple e-commerce website built with Laravel-10, featuring an admin panel for managing products. It utilizes the uStora theme to provide a visually appealing and user-friendly online shopping experience.
+This project I have developed for my BASIS SEIP final assessment.
 
 Key Features:
-
 - Add, delete, update, and create active/inactive products through the admin panel.
 - Responsive and customizable user interface using the uStora theme.
 - Secure user authentication and authorization.
@@ -44,3 +30,5 @@ These instructions will help you get a copy of the project up and running on you
 ### Installation
 
 1. Clone the repository to your local machine:
+2. Onpen terminal and run "php artisan config:catche" command
+3. Ten Finally run "php artisan serve" command
